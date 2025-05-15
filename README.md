@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 Perkenalkan nama saya **Anggun Cahya Dewi**.<br>
+Saya adalah mahasiswa jurusan **Teknologi Rekayasa Perangkat Lunak (TRPL)** di **Politeknik Negeri Banyuwangi**.
+
+🔗 Kamu bisa terhubung dengan saya di [LinkedIn](www.linkedin.com/in/anggun-cahya-dewi-154513348).
+
 <!--
 **Anggunchydw/Anggunchydw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Anggunchydw">
